@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tracking Hardware
-permalink: /beacons
+permalink: /beacons/
 ---
 
 * [Tiles](https://amzn.to/3h77T5f)

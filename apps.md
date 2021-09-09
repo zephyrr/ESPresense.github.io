@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Android/iOS App based beacons
-permalink: /beacons/apps
+permalink: /beacons/apps/
 ---
 
 <img src="/images/beacon_scope_android.jpg" style="float:right;margin:24px;width:200px">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home Assistant Configuration
-permalink: /home_assistant
+permalink: /home_assistant/
 ---
 
 Once the ESP32 is running, it is important to configure Home Assistant to use the information from the MQTT topic to determine what devices to track. You can read the full documentation [on the Home Assistant website](https://www.home-assistant.io/components/sensor.mqtt_room/). It is critical that you configure your device IDs to match the device fingerprint found by ESPresence.  The easiest way to find it is to connect the usb cable and monitor the serial port (115200 baud) while bringing a device close to the ESP32.  To monitor the serial port you can use Ardiuno monitor function or via platform io ``pio  run --target monitor``.  You should see output similar to the following:

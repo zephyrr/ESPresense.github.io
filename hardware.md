@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supported Hardware
-permalink: /hardware
+permalink: /hardware/
 ---
 
 Try any of the following ESP32 based devices to flash:
