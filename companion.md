@@ -30,7 +30,7 @@ Once you have drawn out your rooms, click "convert to YAML Code" and copy/paste 
 
 
 ### Setup Mqtt
-Espresense and Espresense rely on MQTT to function - this guide to the companion assumes you have an MQTT connectoin and it is set up Espresense already.  
+Espresense and Espresense Companion rely on MQTT to function - this guide to the companion assumes you have an MQTT connection and it is set up for Espresense already.  
 If you have not - go here to set that up: https://mosquitto.org/.  Then 
 
 Once that is set up, go to your MQTT addon and write down the host, port (default is 1883), username and password.  
